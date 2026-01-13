@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm lengsenghong</h1>
 <h3 align="center">A passionate Software developer from Cambodia</h3>
 
-- 🌱 I’m currently learning **Flutter Next.js JAVA SpringBoot**
 
 - 📫 How to reach me **lengsenghong168@gmail.com**
 
