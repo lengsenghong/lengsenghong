@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **lengsenghong168@gmail.com**
 
-- ⚡ Fun fact **I love Music and Football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
