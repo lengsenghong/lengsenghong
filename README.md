@@ -22,9 +22,9 @@
 ```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  lengsenghong@github ~ neofetch                               ║
-║  ─────────────────────────────────────────────────────────── ║
+║  ───────────────────────────────────────────────────────────  ║
 ║  Role:       DevOps Engineer & Full-Stack Developer           ║
-║  Location:   Cambodia 🇰🇭                                     ║
+║  Location:   Cambodia 🇰🇭                                      ║
 ║  University: National University of Management (2023–2026)    ║
 ║  Focus:      CI/CD · Cloud · Containers · Automation          ║
 ║  Phone:      +855 882 633 150                                 ║
