@@ -35,12 +35,6 @@
 ```
 
 Motivated IT student and aspiring **DevOps Engineer** with hands-on experience building scalable **CI/CD pipelines**, containerized applications, and full-stack systems. Passionate about cloud technologies, automation, and simplifying complex technical concepts for students and developers.
-
-- 🏆 **Top 3** Team Project — Full-Stack Development (ISTAD)
-- 🎓 Pursuing **B.IT** at National University of Management + DevOps cert at ISTAD
-- 🛠️ Shipped real-world projects: cloud deployment platforms, AI e-commerce, live quiz systems
-- 📝 Shares IT content on blogs and social media
-
 ---
 
 ## `$ ls -la devops-tools/`
